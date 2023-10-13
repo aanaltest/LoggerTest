@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = 'Logger'
+  s.name         = 'Logger_A'
   s.version      = '0.0.1'
   s.summary      = 'Logger details'
   s.description  =  <<-DESC
